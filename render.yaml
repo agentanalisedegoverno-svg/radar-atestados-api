@@ -1,0 +1,23 @@
+# Blueprint do Render: cria o serviço web gratuito da API do Radar de Atestados.
+# No Render: New > Blueprint > escolha o repositório com este arquivo.
+services:
+  - type: web
+    name: radar-atestados-api
+    runtime: node
+    plan: free
+    region: virginia            # mais perto de um cluster Atlas em AWS us-east-1
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /v1/saude
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: MONGODB_URI          # string de conexão do Atlas (usuário só deste banco)
+        sync: false
+      - key: MONGODB_DB
+        value: radar
+      - key: ADMIN_TOKEN          # gerado pelo Render; usado só para criar e revogar chaves
+        generateValue: true
+      - key: SEED_INICIAL         # carrega os dados atuais do painel na primeira subida (banco vazio)
+        value: "true"

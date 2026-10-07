@@ -1,0 +1,23 @@
+{
+  "name": "radar-atestados-api",
+  "version": "1.0.0",
+  "description": "API do Radar de Atestados CTC (MongoDB Atlas + Render)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node scripts/teste.js",
+    "estado-do-painel": "node scripts/painel-para-estado.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "express-rate-limit": "^7.5.1",
+    "mongodb": "^6.21.0"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "mingo": "^6.7.2"
+  }
+}

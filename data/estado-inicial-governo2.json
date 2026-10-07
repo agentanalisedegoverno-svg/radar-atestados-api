@@ -1,0 +1,3033 @@
+{
+  "rodada": {
+    "rodadaId": "2026-10-05",
+    "versaoEsquema": "1.0",
+    "tipo": "completa",
+    "geradoEm": "2026-10-07T17:14:14.083Z",
+    "arquivosLidos": 99,
+    "novos": 0,
+    "alterados": 0,
+    "observacao": "Carga inicial a partir do painel Radar de Atestados (leitura de 05/10/2026). Quantitativos estruturados e links entram na próxima rodada do agente."
+  },
+  "atestados": [
+    {
+      "id": "101",
+      "emitente": "INCA",
+      "esfera": "federal",
+      "ano": 2018,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "~2.100 chamados/mês · 3.065 equipamentos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "103",
+      "emitente": "Ministério da Saúde",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "104.1",
+      "emitente": "Petrobras (Anexo I, storage)",
+      "esfera": "estatal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": "Só o anexo técnico; folha do atestado não localizada",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "107",
+      "emitente": "Arquivo Nacional",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SEG",
+        "SD",
+        "NET"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "Substituído pelo 124",
+      "versao": {
+        "vigente": false,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "108",
+      "emitente": "Casa da Moeda",
+      "esfera": "estatal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "razao_social_divergente"
+      ],
+      "destaque": "66.144 UST/ano · R$ 630 mil/ano",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "109",
+      "emitente": "L'Oréal",
+      "esfera": "privado",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "SEG"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "~4.500 chamados/mês · 2.230 equipamentos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "110",
+      "emitente": "TRE-SP",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OUTR"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "Conservação de urnas · 42.748 UST",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "111",
+      "emitente": "STF (atendimento processual)",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "penalidade_registrada",
+        "sem_quantitativos"
+      ],
+      "destaque": "Multa registrada no SICAF",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "112",
+      "emitente": "TST",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": "Só o ofício é legível",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "113",
+      "emitente": "Caixa · CETEC SP",
+      "esfera": "estatal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "AUT",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "~27 mil chamados/mês · 28.980 usuários · R$ 48,2 mi",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "115",
+      "emitente": "Polícia Científica (gestão)",
+      "esfera": "estadual",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "117",
+      "emitente": "Farmanguinhos / Fiocruz",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "SEG"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [],
+      "destaque": "Emergencial de 6 meses · 18.800 UST",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "118",
+      "emitente": "STJ",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "penalidade_registrada",
+        "razao_social_divergente",
+        "sem_quantitativos"
+      ],
+      "destaque": "Superado pelo 154",
+      "versao": {
+        "vigente": false,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "119",
+      "emitente": "CNEN",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "NET",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "Escopo de uma frase",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "121",
+      "emitente": "HUPE / UERJ (pentest)",
+      "esfera": "estadual",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SEG"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "Pentest · 1.600 estações · 90 servidores",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "122",
+      "emitente": "INPI",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "SEG",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade"
+      ],
+      "destaque": "45 postos · 62 mil ICs monitorados",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "123",
+      "emitente": "SPTC",
+      "esfera": "estadual",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "FAB",
+        "SEG",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "40.200 PF · 51 profissionais · índice >98%",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "124",
+      "emitente": "Arquivo Nacional",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SEG",
+        "SD",
+        "NET",
+        "FAB",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "NOC/SOC · SAN 1 PB · backup 980 TB",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "125",
+      "emitente": "INCA",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "~2.100 chamados/mês · plenamente satisfatório",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "126",
+      "emitente": "HUPE (ERP MV)",
+      "esfera": "estadual",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SAU",
+        "FAB",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "ERP hospitalar MV · 5.331 usuários",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "127",
+      "emitente": "HUPE (TIC)",
+      "esfera": "estadual",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "IA"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "2.100 chamados/mês · 12 profissionais",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "128",
+      "emitente": "Infraero",
+      "esfera": "estatal",
+      "ano": 2020,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "NET",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_avaliacao_qualidade"
+      ],
+      "destaque": "VoIP · 515 chamados/mês · 3.118 pontos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "129",
+      "emitente": "SPPREV",
+      "esfera": "estadual",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "130",
+      "emitente": "INCA",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "131",
+      "emitente": "Ministério da Saúde 55/2017",
+      "esfera": "federal",
+      "ano": 2020,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "Até 156 mil chamados/ano · SEI",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "132",
+      "emitente": "Arquivo Nacional",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SEG",
+        "SD",
+        "NET",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "SLA 99,99%",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "133",
+      "emitente": "STF 26/2015",
+      "esfera": "federal",
+      "ano": 2019,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "Satisfatório · SEI",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "134",
+      "emitente": "STJ",
+      "esfera": "federal",
+      "ano": 2020,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "penalidade_registrada"
+      ],
+      "destaque": "~8 mil chamados/mês · 67 postos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "135",
+      "emitente": "Declaração MS 55/2017",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "135.1",
+      "emitente": "Declaração Omnichannel MS",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "136",
+      "emitente": "UOL",
+      "esfera": "privado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "137",
+      "emitente": "Petrobras (storage e backup)",
+      "esfera": "estatal",
+      "ano": 2020,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "R$ 7,04 mi · contrato concluído sem multas",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "138",
+      "emitente": "SPTC",
+      "esfera": "estadual",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OUT",
+        "SD",
+        "FAB",
+        "NET"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "Outra versão do 123",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "139",
+      "emitente": "INPI",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SD",
+        "SEG",
+        "NET",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade",
+        "versao_conflitante"
+      ],
+      "destaque": "Outra versão do 122",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "140",
+      "emitente": "ANP",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "141",
+      "emitente": "VALEC",
+      "esfera": "estatal",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "razao_social_divergente"
+      ],
+      "destaque": "3.366 equipamentos · SEI",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "142",
+      "emitente": "Consult Center",
+      "esfera": "privado",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "executado_pela_interaktiv",
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "4.000 PF",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "143",
+      "emitente": "Personal Check",
+      "esfera": "privado",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "executado_pela_interaktiv",
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "3.500 PF · trecho sensível sobre Serasa",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "144",
+      "emitente": "UFF",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OUT",
+        "FAB"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_quantitativos"
+      ],
+      "destaque": "13 postos EAD",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "145",
+      "emitente": "CVM",
+      "esfera": "federal",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_quantitativos",
+        "versao_conflitante"
+      ],
+      "destaque": "Superado pelo 172",
+      "versao": {
+        "vigente": false,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "146",
+      "emitente": "Arquivo Nacional",
+      "esfera": "federal",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SD",
+        "SEG",
+        "NET",
+        "FAB",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "Volumetria diverge entre tabelas",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "146.2",
+      "emitente": "Arquivo Nacional (declaração IA)",
+      "esfera": "federal",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "IA",
+        "AUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_quantitativos"
+      ],
+      "destaque": "Única evidência pública de IA",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "147",
+      "emitente": "Ministério da Saúde 25/2020 + edital",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "AUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": "ACT escaneado na pág. 1",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "151",
+      "emitente": "Merck",
+      "esfera": "privado",
+      "ano": 2022,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "IA",
+        "FAB",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_quantitativos"
+      ],
+      "destaque": "RPA com machine learning",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "152",
+      "emitente": "HL7",
+      "esfera": "nao_identificado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SAU"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "153",
+      "emitente": "IBGE (N3)",
+      "esfera": "federal",
+      "ano": 2022,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SEG",
+        "NET",
+        "CLD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "1.900 VMs · 1.800 chamados/mês",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "154",
+      "emitente": "STJ",
+      "esfera": "federal",
+      "ano": 2022,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "penalidade_registrada"
+      ],
+      "destaque": "~8 mil chamados/mês · 67 postos · 5.500 usuários",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "160",
+      "emitente": "Bacen (atendimento)",
+      "esfera": "federal",
+      "ano": 2022,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "versao_conflitante"
+      ],
+      "destaque": "20 mil atendimentos/mês · R$ 7,7 mi",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "161",
+      "emitente": "Elo",
+      "esfera": "privado",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "QA · 43.848 h · DocuSign",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "162",
+      "emitente": "NEFRO (telemedicina)",
+      "esfera": "privado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SAU"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "163",
+      "emitente": "Petrobras (infra de aplicações)",
+      "esfera": "estatal",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "penalidade_registrada",
+        "sem_avaliacao_qualidade"
+      ],
+      "destaque": "R$ 7,53 mi · 2 multas",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "164",
+      "emitente": "Bacen (datacenter físico)",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "NET"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "Cabeamento · 11 profissionais",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "165",
+      "emitente": "Transpetro",
+      "esfera": "estatal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": "ACT escaneado",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "166",
+      "emitente": "DaVita",
+      "esfera": "privado",
+      "ano": 2022,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "AUT",
+        "SAU"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade",
+        "papel_timbrado_ctc"
+      ],
+      "destaque": "Totem integrado ao Tasy",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "167",
+      "emitente": "Personal Check (portal)",
+      "esfera": "privado",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade",
+        "sem_quantitativos",
+        "papel_timbrado_ctc"
+      ],
+      "destaque": "Portal e app mobile",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "168",
+      "emitente": "Hospital BP",
+      "esfera": "privado",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "AUT",
+        "FAB",
+        "SAU"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade",
+        "sem_quantitativos",
+        "papel_timbrado_ctc"
+      ],
+      "destaque": "Check-in e totens integrados ao Tasy",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "169",
+      "emitente": "SPTC 2021",
+      "esfera": "estadual",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "170",
+      "emitente": "Infraero",
+      "esfera": "estatal",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "NET",
+        "OUT",
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "R$ 2,75 mi · ~2.000 telefones IP",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "171",
+      "emitente": "Coface",
+      "esfera": "privado",
+      "ano": 2023,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "IA"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "executado_pela_interaktiv"
+      ],
+      "destaque": "6.500 PF · 46.114 h",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "172",
+      "emitente": "CVM",
+      "esfera": "federal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "60 meses · R$ 3,04 mi",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "173",
+      "emitente": "FSFX",
+      "esfera": "privado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "AUT",
+        "SAU"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "174",
+      "emitente": "BNDES",
+      "esfera": "estatal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "175",
+      "emitente": "Dufry / Avolta (GRU)",
+      "esfera": "privado",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "NET",
+        "SEG",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_avaliacao_qualidade"
+      ],
+      "destaque": "268 câmeras IP · 268 pontos Cat6",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "176",
+      "emitente": "Codevasf 2019/2020",
+      "esfera": "estatal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "OUT",
+        "SEG"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "29 postos em 8 UFs",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "177",
+      "emitente": "Bacen (atendimento)",
+      "esfera": "federal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "20 mil atendimentos/mês · R$ 10,76 mi",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "178",
+      "emitente": "TRT10",
+      "esfera": "federal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "Escopo de uma linha",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "179",
+      "emitente": "UOL (declaração omnichannel)",
+      "esfera": "privado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "180",
+      "emitente": "Ministério da Saúde 20/2021",
+      "esfera": "federal",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "181",
+      "emitente": "Infra S.A.",
+      "esfera": "estatal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "razao_social_divergente"
+      ],
+      "destaque": "640 usuários · ITSM PinkVerify",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "182",
+      "emitente": "CJF",
+      "esfera": "federal",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "CLD",
+        "NET",
+        "IA",
+        "SEG",
+        "SD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": ">1.000 VMs · 24x7 · Kubernetes · >100 bancos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "183",
+      "emitente": "CNO Odebrecht",
+      "esfera": "privado",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "CLD",
+        "SEG",
+        "IA",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "versao_conflitante"
+      ],
+      "destaque": "Superado pelo 193",
+      "versao": {
+        "vigente": false,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "184",
+      "emitente": "Moinhos de Vento",
+      "esfera": "privado",
+      "ano": 2024,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SAU",
+        "IA"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_avaliacao_qualidade",
+        "sem_quantitativos"
+      ],
+      "destaque": "FHIR via Fastcomm · IA Lya",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "185",
+      "emitente": "Imprensa Nacional",
+      "esfera": "federal",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "N1 a N3 · SEI",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "186",
+      "emitente": "Sharecare",
+      "esfera": "privado",
+      "ano": 2021,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "SAU",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "executado_pela_interaktiv",
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "Horas incompatíveis com a equipe",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "189",
+      "emitente": "IBGE N3 (022/2020)",
+      "esfera": "federal",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "INF",
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_avaliacao_qualidade",
+        "sem_quantitativos"
+      ],
+      "destaque": "Porte só no edital anexo",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "190",
+      "emitente": "IBGE N1/N2 (024/2021)",
+      "esfera": "federal",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_avaliacao_qualidade",
+        "sem_quantitativos"
+      ],
+      "destaque": "Número do pregão diverge",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "191",
+      "emitente": "Bacen (atendimento ao público)",
+      "esfera": "federal",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OMN"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_quantitativos"
+      ],
+      "destaque": "Modelo do edital PE 90.046/2025",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "193",
+      "emitente": "CNO Odebrecht",
+      "esfera": "privado",
+      "ano": 2025,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "CLD",
+        "SEG",
+        "IA",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "IA generativa na GCP · RAG · Vertex AI",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "194",
+      "emitente": "TRE-DF",
+      "esfera": "federal",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "SEG",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "22 a 33 postos · R$ 2,6 mi/ano",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "195",
+      "emitente": "Hospital Sabará (Lya)",
+      "esfera": "privado",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SAU",
+        "IA",
+        "FAB"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "18.768 consultas com IA · integração MV",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "196",
+      "emitente": "Arquivo Nacional 01/2021",
+      "esfera": "federal",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "1,6 PB · 241 VMs · ICP-Brasil",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "197",
+      "emitente": "Codevasf 2025",
+      "esfera": "estatal",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "OMN",
+        "CLD"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel"
+      ],
+      "destaque": "13 UFs · >30 mil chamados/ano",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "198",
+      "emitente": "TCU",
+      "esfera": "federal",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OUT",
+        "OUTR"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "sem_quantitativos"
+      ],
+      "destaque": "130 postos · R$ 13,1 mi",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "199",
+      "emitente": "Leroy Merlin",
+      "esfera": "privado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "200",
+      "emitente": "SPTC (backoffice)",
+      "esfera": "estadual",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "OUT",
+        "OUTR"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "C",
+      "nivelEvidencia": 2,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "sem_quantitativos"
+      ],
+      "destaque": "3 postos 22x7",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "201",
+      "emitente": "SPTC ITSM e Digital",
+      "esfera": "estadual",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "FAB",
+        "IA",
+        "SEG",
+        "CLD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "R$ 13,1 mi · 11.224 h/mês",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "202",
+      "emitente": "Allcare",
+      "esfera": "privado",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "9 perfis · 56.700 h",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "203",
+      "emitente": "Ministério da Saúde 25/2020",
+      "esfera": "federal",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "AUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "144 a 173 mil chamados/ano · 6 anos",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "204",
+      "emitente": "SSP-DF",
+      "esfera": "estadual",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "SEG"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "penalidade_registrada",
+        "sem_quantitativos"
+      ],
+      "destaque": "R$ 4,09 mi · advertência e multa",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "205",
+      "emitente": "SPTC ITSM e Digital",
+      "esfera": "estadual",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "INF",
+        "NET",
+        "FAB",
+        "IA",
+        "SEG",
+        "CLD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "A",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "Versão mais completa do 201",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "206",
+      "emitente": "Allcare",
+      "esfera": "privado",
+      "ano": 2026,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "FAB",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [
+        "assinatura_nao_verificavel",
+        "versao_conflitante"
+      ],
+      "destaque": "10 perfis · 63.000 h",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "21",
+      "emitente": "CNEN-MG",
+      "esfera": "federal",
+      "ano": 2013,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "63",
+      "emitente": "Caixa (datacenter)",
+      "esfera": "estatal",
+      "ano": 2016,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "68",
+      "emitente": "CNJ",
+      "esfera": "federal",
+      "ano": 2016,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "76",
+      "emitente": "Senado Federal",
+      "esfera": "federal",
+      "ano": 2016,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [
+        "SD",
+        "OUT"
+      ],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "B",
+      "nivelEvidencia": 1,
+      "alertas": [],
+      "destaque": "93 postos · 6.000 estações",
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": true,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "77",
+      "emitente": "TCU",
+      "esfera": "federal",
+      "ano": 2017,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "114",
+      "emitente": "Aprenda Certo",
+      "esfera": "nao_identificado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "X1",
+      "emitente": "Declaração PostGIS",
+      "esfera": "nao_identificado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    },
+    {
+      "id": "X2",
+      "emitente": "Declaração sala-cofre Caixa",
+      "esfera": "nao_identificado",
+      "ano": null,
+      "emissao": null,
+      "contrato": null,
+      "frentes": [],
+      "tecnologias": [],
+      "quantitativos": [],
+      "forca": "?",
+      "nivelEvidencia": 4,
+      "alertas": [
+        "sem_texto_ocr"
+      ],
+      "destaque": null,
+      "versao": {
+        "vigente": true,
+        "conflitaCom": []
+      },
+      "usoRestrito": false,
+      "link": null,
+      "textoLegivel": false,
+      "origemDados": "painel-2026-10-05"
+    }
+  ],
+  "prazos": [
+    {
+      "contrato": "SPTC · DA 95/2021 (ITSM e Digital)",
+      "data": "2026-10-24",
+      "tipo": "fim_contrato",
+      "motivo": "Fim do contrato",
+      "acao": "Já existe rascunho na fila: '205- ACT SPTC - ITSM e Digital - Revisado.docx' (alterado em 25/09, datado de 28/09/2026, para assinatura da diretora substituta do NIT). Traz 3.500 usuários, mais de 12 mil chamados/ano, 100 VMs, 69 APs e 2 controladoras, R$ 13,1 mi e 26 sistemas. Antes de assinar: preencher o campo Qlik (pede que se listem sistemas), trocar '(xx servidores)' e 'XX Linus e XX Windows', incluir PF ou sprints medidos e ajustar 'em execução' se a assinatura sair perto do fim. Depois, aposentar 201 ou 205.",
+      "estimado": false
+    },
+    {
+      "contrato": "TRE-DF · Contrato 18/2024",
+      "data": "2026-10-30",
+      "tipo": "fim_contrato",
+      "motivo": "Fim da vigência inicial",
+      "acao": "Pedir ACT atualizado registrando o pico de postos do ano eleitoral de 2026 (até 33) e o volume de chamados, que o atestado atual não traz.",
+      "estimado": false
+    },
+    {
+      "contrato": "Moinhos de Vento · 20220567",
+      "data": "2026-11-01",
+      "tipo": "fim_contrato",
+      "motivo": "Fim previsto (destrato em dez/2024)",
+      "acao": "Decidir se o item sai da fila de emissão; o rascunho está em validação desde 2024.",
+      "estimado": false
+    },
+    {
+      "contrato": "SSP-DF · Contrato 14/2024",
+      "data": "2027-01-31",
+      "tipo": "fim_contrato",
+      "motivo": "Fim estimado (30 meses)",
+      "acao": "No ACT final, incluir volumetria executada por especialidade (BD, redes, segurança, storage). Preparar nota explicativa para a advertência e a multa registradas.",
+      "estimado": true
+    },
+    {
+      "contrato": "CJF · Contrato 30/2022",
+      "data": "2027-02-19",
+      "tipo": "12_meses",
+      "motivo": "12 meses do último ACT",
+      "acao": "Renovar com as declarações pendentes na planilha: replicação entre sites e integração de dados (SQL Data Sync, SSIS, Pentaho).",
+      "estimado": false
+    },
+    {
+      "contrato": "Hospital Sabará · Lya Health",
+      "data": "2027-02-11",
+      "tipo": "12_meses",
+      "motivo": "12 meses do último ACT",
+      "acao": "Renovar com consultas acumuladas e incluir prova de assinatura, que o atual não mostra.",
+      "estimado": false
+    },
+    {
+      "contrato": "Codevasf · 0.0002.00/2025",
+      "data": "2027-03-23",
+      "tipo": "12_meses",
+      "motivo": "12 meses do último ACT",
+      "acao": "Renovar com chamados mensais executados e com o chatbot/omnichannel quantificado (atendimentos pelo bot).",
+      "estimado": false
+    },
+    {
+      "contrato": "SPTC · DA 154/2022 (backoffice)",
+      "data": "2026-09-19",
+      "tipo": "fim_contrato",
+      "motivo": "Contrato encerrado",
+      "acao": "Pedir o ACT final de encerramento ao Núcleo de TI enquanto o diretor atual está no cargo.",
+      "estimado": false
+    },
+    {
+      "contrato": "CNO Odebrecht · 20240725v4",
+      "data": "2026-08-02",
+      "tipo": "fim_contrato",
+      "motivo": "Fim estimado (14 meses)",
+      "acao": "Pedir ACT final com as horas executadas de IA generativa na GCP; o 193 registra só 500 de 2.240 h.",
+      "estimado": true
+    },
+    {
+      "contrato": "Ministério da Saúde · 25/2020",
+      "data": "2026-07-27",
+      "tipo": "fim_contrato",
+      "motivo": "Ano contratual fechado",
+      "acao": "O 203 foi emitido com o ano 2025/26 incompleto e sem a palavra satisfatório. Pedir versão com o ano fechado e avaliação de qualidade.",
+      "estimado": false
+    },
+    {
+      "contrato": "Bacen · atendimento ao público (191)",
+      "data": "2026-08-22",
+      "tipo": "fim_contrato",
+      "motivo": "Assinatura não comprovada",
+      "acao": "Localizar a versão assinada do modelo do PE 90.046/2025 ou pedir reemissão em papel do Bacen.",
+      "estimado": false
+    },
+    {
+      "contrato": "IBGE · 024/2021 e 022/2020",
+      "data": "2026-05-13",
+      "tipo": "12_meses",
+      "motivo": "12 meses do último ACT",
+      "acao": "Reemitir com avaliação de qualidade e volumetria executada; hoje os números estão só no edital anexo.",
+      "estimado": false
+    },
+    {
+      "contrato": "Arquivo Nacional · 01/2021",
+      "data": "2026-04-09",
+      "tipo": "fim_contrato",
+      "motivo": "Contrato encerrado",
+      "acao": "Confirmar se o 196 é o atestado final. Marcar o novo contrato (12/2025, citado na planilha de declarações) para pedido aos 12 meses de execução.",
+      "estimado": false
+    },
+    {
+      "contrato": "Imprensa Nacional · 06/2023",
+      "data": "2026-01-28",
+      "tipo": "12_meses",
+      "motivo": "12 meses do último ACT",
+      "acao": "Pedir ACT com volumetria. Incluir as 232 VMs em Hyper-V e Nutanix AHV, única prova de AHV do acervo.",
+      "estimado": false
+    },
+    {
+      "contrato": "TCU · 04/2025-Segedam",
+      "data": "2026-05-31",
+      "tipo": "fim_contrato",
+      "motivo": "Vigência informada no ACT",
+      "acao": "Confirmar prorrogação e pedir ACT com o número de postos efetivamente ocupados (até 130).",
+      "estimado": false
+    },
+    {
+      "contrato": "INCA · 20220333",
+      "data": "2025-10-01",
+      "tipo": "fila_parada",
+      "motivo": "Fila: em validação",
+      "acao": "Contrato terminou há um ano. Retomar a assinatura antes que o gestor saia.",
+      "estimado": false
+    },
+    {
+      "contrato": "CNEN · 20220429",
+      "data": "2025-11-20",
+      "tipo": "fila_parada",
+      "motivo": "Fila: em validação",
+      "acao": "Contrato encerrado. Retomar validação do template.",
+      "estimado": false
+    },
+    {
+      "contrato": "Lar São Francisco · 20220640",
+      "data": "2025-12-12",
+      "tipo": "fila_parada",
+      "motivo": "Fila: em validação",
+      "acao": "Contrato encerrado. Retomar validação ou abandonar formalmente.",
+      "estimado": false
+    },
+    {
+      "contrato": "Defensoria do Pará · 20220421",
+      "data": "2025-01-24",
+      "tipo": "fila_parada",
+      "motivo": "Fila: em validação",
+      "acao": "Contrato encerrado há mais de 20 meses. Alto risco de não conseguir assinatura.",
+      "estimado": false
+    },
+    {
+      "contrato": "IBGE · 20220330",
+      "data": "2026-07-20",
+      "tipo": "fila_parada",
+      "motivo": "Fila: em validação",
+      "acao": "Contrato encerrado. Unificar com o pedido de reemissão do IBGE.",
+      "estimado": false
+    },
+    {
+      "contrato": "SABESP · 20220342 e 20220341",
+      "data": "2024-06-25",
+      "tipo": "fila_parada",
+      "motivo": "Fila: aguardando assinatura",
+      "acao": "Parado desde 2024. Cobrar assinatura ou registrar recusa.",
+      "estimado": false
+    }
+  ],
+  "lacunas": [
+    {
+      "requisito": "Ambiente virtualizado com Nutanix AHV obrigatório",
+      "exigido": "≥ 500 VMs",
+      "evidencia": "Imprensa Nacional: 232 VMs (Hyper-V + AHV). CJF >1.000 e IBGE 1.900 VMs, mas em VMware/Hyper-V.",
+      "proporcao": 0.46,
+      "situacao": "lacuna",
+      "rotulo": "Lacuna em AHV"
+    },
+    {
+      "requisito": "Backup: sustentação e administração",
+      "exigido": "≥ 50 políticas",
+      "evidencia": "Arquivo Nacional >457 políticas; CJF 66; INCA 59.",
+      "proporcao": 1,
+      "situacao": "atendido",
+      "rotulo": "Atendido"
+    },
+    {
+      "requisito": "Storage mid-range ou high-end com cluster de controladoras",
+      "exigido": "≥ 300 TB e ≥ 50 LUNs",
+      "evidencia": "Arquivo Nacional 3,07 PB com 121 LUNs; CJF >500 TB com >50 LUNs.",
+      "proporcao": 1,
+      "situacao": "atendido",
+      "rotulo": "Atendido"
+    },
+    {
+      "requisito": "Bancos de dados em ambiente único, 3+ SGBDs",
+      "exigido": "≥ 100 instâncias",
+      "evidencia": "CJF >100 instâncias em Oracle RAC, SQL Server, MySQL e PostgreSQL.",
+      "proporcao": 1,
+      "situacao": "atendido",
+      "rotulo": "Atendido"
+    },
+    {
+      "requisito": "Replicação de dados entre sites",
+      "exigido": "Sem quantidade",
+      "evidencia": "CJF executa; a planilha marca como 'solicitar declaração'.",
+      "proporcao": 0.5,
+      "situacao": "parcial",
+      "rotulo": "Declaração pendente"
+    },
+    {
+      "requisito": "Integração e carga de dados (ETL) on-premises e nuvem",
+      "exigido": "PowerCenter, ODI ou similar",
+      "evidencia": "CJF cita SQL Data Sync, SSIS e Pentaho; Arquivo Nacional pendente.",
+      "proporcao": 0.6,
+      "situacao": "parcial",
+      "rotulo": "Declaração pendente"
+    },
+    {
+      "requisito": "Rede spine-leaf com cabeado e wireless",
+      "exigido": "≥ 300 switches · ≥ 800 APs · ≥ 10 controladoras",
+      "evidencia": "IBGE 450 switches e 300 APs; BNDES 284 e 231; CJF 40 switches, 55 APs, 2 controladoras. Soma de APs ~620 e de controladoras ~7.",
+      "proporcao": 0.6,
+      "situacao": "lacuna",
+      "rotulo": "Lacuna em APs e controladoras"
+    },
+    {
+      "requisito": "Suporte e gestão de videoconferência",
+      "exigido": "Sem quantidade",
+      "evidencia": "BNDES (Scopia, vBrick) no atestado ilegível; Codevasf marcado para declaração.",
+      "proporcao": 0.4,
+      "situacao": "parcial",
+      "rotulo": "Depende de OCR e declaração"
+    }
+  ]
+}
