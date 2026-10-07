@@ -118,4 +118,5 @@ O primeiro acesso depois de 15 minutos parados demora cerca de 1 minuto (o Rende
 - **Backup:** o M0 não tem backup automático. Uma exportação semanal com `mongodump --uri "<MONGODB_URI>" --db radar` resolve; o estado também pode ser reconstruído por uma rodada completa do agente.
 - **Pausa do Atlas:** o M0 pausa após 30 dias sem nenhuma conexão. As rodadas do agente evitam isso.
 - **Limites do plano gratuito do Render:** 750 horas/mês por workspace (cobre um serviço o mês todo), sem disco persistente e com reinícios eventuais. A própria Render não recomenda o plano gratuito para produção.
+- **Criar as chaves:** `scripts/criar-chaves.ps1`. Roteiro do agente: `docs/AGENTE.md`. Arquitetura: `docs/ARQUITETURA.md`.
 - **Regerar a carga a partir do painel:** `npm run estado-do-painel -- <painel.html> data/estado-inicial-governo2.json 2026-10-05`.
